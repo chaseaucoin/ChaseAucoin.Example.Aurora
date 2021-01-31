@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChaseAucoin.Aurora", "ChaseAucoin.Lambda.Aurora\ChaseAucoin.Aurora.csproj", "{CD09292E-84FB-4EE9-A017-98EBC6BF2CCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD09292E-84FB-4EE9-A017-98EBC6BF2CCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD09292E-84FB-4EE9-A017-98EBC6BF2CCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD09292E-84FB-4EE9-A017-98EBC6BF2CCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD09292E-84FB-4EE9-A017-98EBC6BF2CCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA6C5FB3-CF54-4C27-B6BB-E381351AB937}
+	EndGlobalSection
+EndGlobal
